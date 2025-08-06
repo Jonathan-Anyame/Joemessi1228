@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Joemessi1228/Joemessi1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Amoah Nyame Jonathan
 
-Here are some ideas to get you started:
+I'm passionate about **software engineering** and love building **websites and apps** that solve real-world problems.  
+I also have experience in **C++ programming** and **product marketing**, combining technical and business skills to create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C++ programming
+- Website development
+- Mobile app development
+- Product marketing
+
+## What I Do
+- Build user-friendly and efficient web applications  
+- Develop mobile apps with seamless user experiences  
+- Promote and market products effectively  
+
+## Contact
+📧 **nyamejonathan9@gmaill.com**  
+(Feel free to reach out for collaborations or opportunities!)
