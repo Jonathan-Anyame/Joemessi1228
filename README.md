@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Amoah Nyame Jonathan
+# Hi there 👋, I'm Amoah Nyame Jonathan Benson
 
 I'm passionate about **software engineering** and love building **websites and apps** that solve real-world problems.  
 I also have experience in **C++ programming** and **product marketing**, combining technical and business skills to create impactful solutions.
