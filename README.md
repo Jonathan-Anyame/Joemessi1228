@@ -5,7 +5,6 @@ I'm passionate about **software engineering** and love building **websites and a
 I also have experience in **C++ programming** and **product marketing**, combining technical and business skills to create impactful solutions.
 
 ## Skills
-- C++ programming
 - Website development
 - Mobile app development
 - Product marketing
